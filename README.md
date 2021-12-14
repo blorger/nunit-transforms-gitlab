@@ -23,6 +23,7 @@ please mention the author.
 | [nunit3-summary](https://github.com/nunit/nunit-transforms/tree/master/nunit3-summary) | Converts NUnit3 results to reports similar to those produced by the console runner. This is intended as an example and will only be updated in case of errors. | [Charlie Poole](https://github.com/charliepoole)<br/>@charliepoole |
 | [nunit2-summary](https://github.com/nunit/nunit-transforms/tree/master/nunit2-summary) | Converts NUnit2 results to reports similar to those produced by the console runner. This is intended as an example and will only be updated in case of errors. | [Charlie Poole](https://github.com/charliepoole)<br/>@charliepoole |
 | [nunit3-bootstrap](https://github.com/nunit/nunit-transforms/tree/master/nunit3-bootstrap) | Converts NUnit3 results to rich html report using Bootstrap. | [Jim Scott](https://github.com/jscott-concord)<br/>@jscott-concord |
+| [nunit3-gitlab](https://github.com/nunit/nunit-transforms/tree/master/nunit3-gitlab) | Converts NUnit3 results to JUnit-style GitLab dialect results. | [Blaž Lorger](https://github.com/blorger)<br/>@blorger |
 <br>
 
 ## How to Use the Transforms
